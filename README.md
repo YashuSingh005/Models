@@ -51,9 +51,8 @@ RPO/
 
 | # | Model | Type | Framework | Status | Notes |
 |---|-------|------|-----------|--------|-------|
-| 01 | _e.g. House Price Predictor_ | Regression | scikit-learn | ✅ Done | First model, learned train/test split |
-| 02 | _e.g. Digit Classifier_ | CNN | PyTorch | 🚧 In progress | |
-| 03 | _..._ | | | 🔲 Planned | |
+| 01 | Molecule Prediction_ | Regression | scikit-learn | ✅ Done | First model, learned train/test split |
+
 
 > Add a row every time a new model lands in this repo.
 
